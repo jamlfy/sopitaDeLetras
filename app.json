@@ -1,0 +1,59 @@
+{
+	"name": "sopitaDeLetras",
+	"displayName": "Sopita De Letras",
+
+	"TRANSLATE": "https://poeditor.com/join/project/sXlG6fH2bR",
+	"PROS": "https://play.google.com/store/apps/details?id=co.planext.sopitaDeLetras",
+	"ADS": "58e3e466493af0b11438a728",
+	"ID_NO_ADS" : "android.test.purchased",
+	"FIREBASE": {
+		"apiKey": "AIzaSyDzlSU9WHdB8ay17K6ir3TLFM9pX3k43PQ",
+		"authDomain": "palabras-cat.firebaseapp.com",
+		"databaseURL": "https://palabras-cat.firebaseio.com",
+		"storageBucket": "palabras-cat.appspot.com",
+		"messagingSenderId": "268239942952"
+	},
+
+	"MIN_LETTER": 6,
+	"PADDING": 5,
+	"MIN_WIDTH": 12.7,
+	"STROKE": 5,
+	"TIMER": 200,
+	"CLICKS": 3,
+	"SHOTS": 50,
+
+	"OPACITY": 0.35,
+
+	"MIN_WORDS": 100,
+	"MATRIX": "matrix",
+	"WORDS": "word",
+	"SETTINGS": "settings",
+	"LIST_WORDS": "list words",
+
+	"SETTING_START": {
+		"width": 6,
+		"lang": [],
+		"tag": [],
+		"numMax": 1,
+		"lowerCase": false
+	},
+
+	"COLOR": {
+		"principal": "#FBF9F1",
+		"grey": "#B3B3B3",
+		"grayBlack": "#545454",
+		"bar": "rgba( 52,  52,  52, 0.35)",
+		"black": "black",
+		"SHOOTING": [
+			"rgb( 234, 238, 112)",
+			"rgb( 245, 137,  12)"
+		],
+		"PARTICLE": [
+			"rgba( 54,  17,  52, 0.35)",
+			"rgba(176,  34, 140, 0.35)",
+			"rgba(234,  55, 136, 0.35)",
+			"rgba(229, 107, 112, 0.35)",
+			"rgba(243, 145, 160, 0.35)"
+		]
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"name": "sopitaDeLetras",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"start": "node node_modules/react-native/local-cli/cli.js start",
+		"test": "jest"
+	},
+	"dependencies": {
+		"firebase": "^3.7.4",
+		"react": "16.0.0-alpha.6",
+		"react-native": "0.43.0",
+		"react-native-billing": "^2.3.0",
+		"react-native-code-push": "^2.0.2-beta",
+		"react-native-drawer": "^2.3.0",
+		"react-native-easy-grid": "^0.1.8",
+		"react-native-i18n": "^1.0.0",
+		"react-native-revmob": "^9.2.2",
+		"react-native-share": "^1.0.20",
+		"react-native-slider": "^0.9.1",
+		"underscore": "^1.8.3"
+	},
+	"devDependencies": {
+		"babel-jest": "19.0.0",
+		"babel-preset-react-native": "1.9.1",
+		"jest": "19.0.2",
+		"react-test-renderer": "16.0.0-alpha.6"
+	},
+	"jest": {
+		"preset": "react-native"
+	}
+}
